@@ -5,7 +5,7 @@ sap.ui.define([
 
 	return Controller.extend("af.affitity2.controller.principal", {
 		onInit: function () {
-
+// esto es una prueba 
 		}
 	});
 });
